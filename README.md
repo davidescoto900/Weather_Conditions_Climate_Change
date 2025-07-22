@@ -22,6 +22,6 @@ there any concerns specific to this project?
 a certain day? (If so, it could also be possible to predict danger.)
 
 ## Folders 
-The folders in this project include the scripts used to implement the required machine learning methods, which can be found in the Project_Scripts folder, as well as the analysis of each topic, located in the Project_Analyses folder.
+The folders in this project include the scripts used to implement the required machine learning methods, which can be found in the Scripts folder, as well as the analysis of each topic, located in the Analyses folder.
 
 
