@@ -25,6 +25,6 @@ a certain day? (If so, it could also be possible to predict danger.)
 The folders in this project include the scripts used to implement the required machine learning methods, which can be found in the Scripts folder, as well as the analysis of each topic, located in the Analyses folder.
 
 ## Presentation
-[A recorded presentation of the interim report for this project can be viewed](here (https://www.youtube.com/watch?v=omPmE3T772o)
+A recorded presentation of the interim report for this project can be viewed [here](https://www.youtube.com/watch?v=omPmE3T772o).
 
-A copy of the slides used in the interim report presentation can be accessed
+A copy of the slides used in the interim report presentation can be accessed [here](https://drive.google.com/file/d/1a6DOjeNlK5jn_dxsWEhuM64Agkx0S3D_/view?usp=sharing)
