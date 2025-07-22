@@ -12,9 +12,12 @@ The data used for this project consists of weather observations from 18 weather 
 
 ## Key Questions 
 ● How is machine learning used? Is it applicable to weather data?
+
 ● ClimateWins has heard of ethical concerns surrounding machine learning and AI. Are
 there any concerns specific to this project?
+
 ● Historically, what have the maximums and minimums in temperature been?
+
 ● Can machine learning be used to predict whether weather conditions will be favorable on
 a certain day? (If so, it could also be possible to predict danger.)
 
