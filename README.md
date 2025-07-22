@@ -6,3 +6,4 @@ This project aims to use machine learning to help predict the consequences of cl
 ## Data Sources
 The data used for this project consists of weather observations from 18 weather stations across Europe. The data has been collected by the [European Climate Assessment & Dataset project ](https://www.ecad.eu/) and includes daily observations from 1960 through most of 2022.
 
+[Download the processed weather dataset](https://github.com/davidescoto900/Weather_Conditions_Climate_Change/blob/main/Dataset-weather-prediction-dataset-processed.csv)
